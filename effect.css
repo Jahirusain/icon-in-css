@@ -1,0 +1,152 @@
+
+
+
+.container{
+      
+      width: 350px;
+      height: 610px;
+      border: 2px solid black;
+      border-radius: 30px;
+      box-shadow:1px 1px  5px rgb(5, 5, 5);
+      position: relative;
+      bottom: -70px;
+      left: 40%;
+      background-image:url('true.jpg') ;
+      
+      
+      
+}
+.fire{
+     
+      position: absolute;
+      left: 590px;
+}
+.main{
+      
+      border: 1px solid;
+      border-color: black;
+      border-radius: 50%;
+     position: relative;
+     top: 50px;
+    
+}
+.name{ 
+      font-size: 25px;
+   position: relative;
+   left:10px;  
+}
+
+.veera{
+     font-style: italic;
+      display: flex;
+      padding: 5px;
+}
+i{
+      color: black;
+      
+}
+a{
+      text-decoration:none;
+      
+}
+.content{
+     display: flex; 
+     position: relative;
+}
+.less{
+      flex-wrap: wrap;
+      
+      position: absolute;
+      left:45px ;
+      top: 0px;
+      padding: 2px;
+      
+}
+.side{
+      position: absolute;
+      top:0px ;
+      right: 10px;
+}
+.line{
+      width:90% ;
+}
+
+
+.item{
+     position: relative;
+      left: 15px;
+}
+.race{
+      position: absolute;
+      left:45px ;
+      bottom: 40px; 
+}
+.vibe{
+      position: absolute;
+      bottom: 45px;
+      right: 10px;
+}
+.color{
+      padding: 0px;
+      background-color:rgb(252, 252, 252);
+}
+
+.color1{
+       padding:0px;
+       background-color: rgb(255, 255, 255);
+}
+.color2{
+      padding:0px;
+      background-color: rgb(255, 255, 255);
+}
+.color3{
+      padding:0px;
+      background-color: rgb(255, 255, 254);
+}.color4{
+      padding:0px;
+      background-color: rgb(255, 255, 255);
+}
+.item1{
+      position: absolute;
+      left: 15px; 
+}
+.color5{
+      padding:0px;
+      background-color: rgb(255, 255, 254);
+}
+.color6{
+      padding:0px;
+      background-color: rgb(255, 255, 254);
+}
+
+
+
+
+.line1{
+      width:100% ;
+      position: absolute;
+      bottom: 35px;
+      right: -1px;
+}
+
+
+.load1{
+      position: relative;
+      top:100px;
+      left: 25px;
+}
+.load2{
+      position: relative;
+      top:60px;
+      left: 115px;
+}
+.load3{
+      position: absolute;
+      top:560px;
+      left: 215px;
+}
+.load4{
+      position: absolute;
+      top:560px;
+      right: 30px;
+}
